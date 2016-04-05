@@ -7,4 +7,8 @@ public class ArrayList<S> {
     public static void main(String[] args) {
 
     }
+
+    public void add(String apple) {
+
+    }
 }
